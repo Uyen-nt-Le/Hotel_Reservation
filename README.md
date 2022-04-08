@@ -10,5 +10,7 @@ Google Drive: LINK HERE
 
 # Demo
 Compile and run with:
+
 g++ hotel_rev_demo.cpp -o demo
+
 ./demo
