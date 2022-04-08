@@ -9,13 +9,13 @@ Google Drive: LINK HERE
 - Demo
 
 # Demo
-Compile and run with:
+*Compile and run with:*
 
 g++ hotel_rev_demo.cpp -o demo
 
 ./demo
 
-Username and password for the demo:
+*Username and password for the demo:*
 
 AlbertK
 
