@@ -14,3 +14,9 @@ Compile and run with:
 g++ hotel_rev_demo.cpp -o demo
 
 ./demo
+
+Username and password for the demo:
+
+AlbertK
+
+akpwd123
